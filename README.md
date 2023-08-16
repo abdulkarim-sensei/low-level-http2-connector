@@ -26,10 +26,6 @@ The Low-Level HTTP2 Connector is a lightweight and versatile HTTP2 library desig
 
 Contributions are welcomed! If you encounter issues, have suggestions, or would like to collaborate, please submit a pull request or open an issue.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Note
 
 While the Low-Level HTTP2 Connector offers excellent performance benefits, it's important to note that it's not a pre-packaged solution. Direct usage in Rust files is possible, but for integration with Go, Python, and other languages, configuration is essential.
